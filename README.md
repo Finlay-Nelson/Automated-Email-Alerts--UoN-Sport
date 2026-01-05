@@ -1,3 +1,3 @@
-# Automated-Email-Alerts-(UoN Sport Disruptions)-
+# Automated Email Alerts (UoN Sport Disruptions)
 
 Originall intended to improve communications between centralised sport staff at the University of Nottingham and contracted sports coaches / session providers this simple scraping script extracts anticpiated disruptions to session timetables and informs those affected ahead of time so that appropriate measures can be put in place to minimise the effect of those disruptions (change facility hire / alternative provision, update session plans, disseminate among athletes). While it requires access to a protected spreadsheet and a properly configured email account with appropriate permissions is required it is a simple enough task to use this as a template for similar tasks. It includes a rudimentary HTML description of a clean and concise email, and demonstrates some simple dataframe handling / manipulation.
